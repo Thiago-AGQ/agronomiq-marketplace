@@ -17,7 +17,7 @@ function toggleCart() {
     <header class="header  px-5">
         <div class="header-menu d-flex align-items-center">
             <a href="/" class="logo-section">
-                <img src="../../assets/images/logo-agronomiq-cor-pb.png" alt="Logo" class="logo" />
+                <img src="/assets/images/logo-agronomiq-cor-pb.png" alt="Logo" class="logo" />
             </a>
             <a href="https://www.agronomiq.com.br/landing" class="project-name">AgronomiQ Website</a>
         </div>

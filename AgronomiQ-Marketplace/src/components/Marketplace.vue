@@ -126,7 +126,7 @@ const handleNavigate = () => {
   </div>
 
   <footer class="footer px-5">
-    <img src="../assets/images/logo-agronomiq-cor-pb.png" alt="Logo" class="logo" />
+    <img src="/assets/images/logo-agronomiq-cor-pb.png" alt="Logo" class="logo" />
 
     <div>
       <div class="footer-topic">Topic</div>
