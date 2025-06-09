@@ -20,49 +20,49 @@ const products = [
         name: 'Propriedades rurais (SICAR/SNCI/SIGEF)',
         description: 'Descrição do Produto 1',
         price: 55.00,
-        image: '/src/assets/images/propriedades_rurais.jpg'
+        image: '@/images/propriedades_rurais.jpg'
     },
     {
         id: 2,
         name: 'Pedologia (Tipos de solo)',
         description: 'Descrição do Produto 2',
         price: 65.00,
-        image: '/src/assets/images/pedologia.jpg'
+        image: '@/images/pedologia.jpg'
     },
     {
         id: 3,
         name: 'Áreas de Reserva Legal',
         description: 'Descrição do Produto 3',
         price: 75.00,
-        image: '/src/assets/images/reserva_legal.png'
+        image: '@/images/reserva_legal.png'
     },
     {
         id: 4,
         name: 'Áreas de Preservação Permanente',
         description: 'Descrição do Produto 4',
         price: 85.00,
-        image: '/src/assets/images/preservacao_permanente.jpg'
+        image: '@/images/preservacao_permanente.jpg'
     },
     {
         id: 5,
         name: 'Uso do solo',
         description: 'Descrição do Produto 5',
         price: 95.00,
-        image: '/src/assets/images/uso_solo.jpg'
+        image: '@/images/uso_solo.jpg'
     },
     {
         id: 6,
         name: 'Zoneamento Agroambiental Sucroalcooleiro',
         description: 'Descrição do Produto 6',
         price: 105.00,
-        image: '/src/assets/images/zoneamento.png'
+        image: '@/images/zoneamento.png'
     },
     {
         id: 7,
         name: 'Dados meteorológicos',
         description: 'Descrição do Produto 7',
         price: 115.00,
-        image: '/src/assets/images/dados_meteorologicos.jpg'
+        image: '@/images/dados_meteorologicos.jpg'
     },
 ]
 
