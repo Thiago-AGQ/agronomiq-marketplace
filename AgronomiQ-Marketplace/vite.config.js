@@ -10,7 +10,7 @@ export default defineConfig({
     vue(),
     vueDevTools(),
   ],
-  base: '/agronomiq-marketplace/',
+  base: '/AgronomiQ-Marketplace/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
